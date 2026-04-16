@@ -1,4 +1,4 @@
-# Introduction
+# Introduction: Empirical data-driven approaches to understanding brain network dynamics
 > *Brief presentation of my master thesis*
 > 
 Graph theory has become a universal analysis tool in diverse fields ranging from biology to physics, social sciences, and economics. 
