@@ -1,3 +1,5 @@
+# Introduction
+> *Brief presentation of my master thesis*
 Graph theory has become a universal analysis tool in diverse fields ranging from biology to physics, social sciences, and economics. 
 Multiple systems can be studied using the same complex networks analysis. 
 This field has brought a powerful tool for understanding brain connectivity and characterizing how information flows within the brain. 
