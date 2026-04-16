@@ -1,7 +1,7 @@
 # Empirical data-driven approaches to understanding brain network dynamics
 > *Master thesis project*
 ## Introduction 
-<img align="left" src="./hbp.jpq" alt="HBP logo" width="200"> 
+<img align="left" src="./hbp.jpg" alt="HBP logo" width="200"> 
 
 Graph theory has become a universal analysis tool in diverse fields ranging from biology to physics, social sciences, and economics. 
 Multiple systems can be studied using the same complex networks analysis.
